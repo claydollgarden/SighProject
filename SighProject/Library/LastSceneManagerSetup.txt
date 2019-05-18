@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TrailTest/TrailTest.unity
+  isLoaded: 1
+  isActive: 1
